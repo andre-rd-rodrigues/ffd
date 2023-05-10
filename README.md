@@ -1,4 +1,4 @@
-# Fake Financial Data Generator
+# 🏦 Fake Financial Data Generator 🏦
 
 This repository contains a simple menu bar created using Raycast to generate fake financial data, including IBAN, SWIFT/BIC, and account numbers. The code uses the `ibankit` library to generate a random IBAN number, and custom functions to generate fake SWIFT/BIC and account numbers. The generated data can be easily copied to the clipboard by clicking on the menu items.
 
